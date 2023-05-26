@@ -1,4 +1,4 @@
-# oldMinecraftBlocksv1-0-0
+# The Nostal Packv1.0.0
 ![IMG_0344](https://github.com/Newtown97/oldMinecraftBlocksv1-0-0/assets/132973465/5649fa9b-dd79-411b-afb6-44783abfecea)
 
 Hello who ever is seeing this! You have come to a mod which adds Old minecraft blocks back into the game. If you are a veteran pocket edition player, you might remember the Nether Reactor Cores! Or if you are a veteran Java edition player, you might remember those prank blocks and items added on April 1st. But bewared, these blocks do not have functionality. Continue! :)
